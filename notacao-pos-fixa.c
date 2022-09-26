@@ -1,3 +1,5 @@
+//INTEGRANTES: Matheus Macedo Gomes (matrícula: 20211045050330) e João Vitor Abreu Castro (matrícula: 20211045050446)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
